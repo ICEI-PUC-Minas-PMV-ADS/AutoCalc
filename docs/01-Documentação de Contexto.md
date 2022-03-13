@@ -32,7 +32,7 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 Apesar de ser um projeto aberto para todo o público adepto a carros, o foco deste trabalho é facilitar o cálculo de consumo de combustível pelo indivíduo que trabalha com seu automóvel por conta própria, pretendendo que o mesmo desfrute de uma ferramenta que o ajudará com seu controle de gastos (semanais ou mensais) e a melhor escolha de “alimentação” para seu veículo. 
  
-De acordo com o Denatran, o Brasil já tem 1 carro a cada 4 habitantes. Combinado com essa realidade, o projeto também é de interesse para pessoas que não usam o carro como fonte de renda, mas também querem reduzir seus custos com gasolina.
+De acordo com o Denatran, o Brasil já tem 1 carro a cada 4 habitantes. Combinado com essa realidade, o projeto também é de interesse para pessoas que não usam o carro como fonte de renda, mas também querem reduzir sua despesa com gasolina.
 
 
 > **Links Úteis**:
