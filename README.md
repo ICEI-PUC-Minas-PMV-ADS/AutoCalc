@@ -6,18 +6,20 @@
 
 `SEMESTRE`
 
-Gestão e acompanhamento abastecimento veicular
+Gestão e acompanhamento de abastecimento veicular
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Eduardo Lucci Imakawa de Andrade
+* Heloisa Soares Ferreira
+* Jéssica Raíssa Araújo Oliveira Queiroz Lopes
+* Julia Berto Rosa
+* Julia Mendes Lima da Cunha
+* Ian Amaral Barbosa Moreira
 
 ## Orientador
 
-* Nome completo do professor 1
+* Luciana De Nardin
 
 ## Instruções de utilização
 
