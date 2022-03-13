@@ -1,10 +1,10 @@
 # AUTO CALC
 
-`CURSO`
+`CURSO`= Analise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+`DISCIPLINA`= Desenvolvimento de uma Aplicação Interativa
 
-`SEMESTRE`
+`SEMESTRE`= Segundo Semestre
 
 Gestão e acompanhamento de abastecimento veicular
 
