@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# AUTO CALC
 
 `CURSO`
 
@@ -6,7 +6,7 @@
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Gestão e acompanhamento abastecimento veicular
 
 ## Integrantes
 
