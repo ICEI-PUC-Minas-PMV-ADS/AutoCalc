@@ -80,4 +80,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Casos de Uso
 
+| ATOR   | DESCRIÇÃO                         |
+|--------|-----------------------------------|
+| Usuário | Pessoa interessada em ter controle sobre os gastos dos seus abastecimentos. |
+
+| CASO DE USO | DESCRIÇÃO | RF |
+|-------------|-----------|----|
+
+
 ![use case](https://user-images.githubusercontent.com/91639148/158084473-ffaf37ab-1fbc-4a40-b266-b50d2a2eba0c.png)
