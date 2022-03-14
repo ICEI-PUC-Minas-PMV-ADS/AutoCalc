@@ -48,8 +48,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O sistema deve cadastrar o usuário | ALTA | 
+|RF-002| O sistema deve efetuar login do usuário   | ALTA |
+|RF-003| O sistema deve recuperar a senha do usuário | ALTA |
+|RF-004| O sistema deve gerenciar veículos | ALTA |
+|RF-005| O sistema deve registrar abastecimentos | ALTA |
+|RF-006| Para cada registro de abastecimento, o sistema deve permitir que o usuário registre comentários | MÉDIA |
+|RF-007| O sistema deve emitir relatório sobre o abastecimento de um ou mais veículos | ALTA |
+|RF-008| O sistema deve ter a opçao de extrair relatório em forma de gráfico sobre o gasto dos abastecimentos | BAIXA |
 
 ### Requisitos não Funcionais
 
