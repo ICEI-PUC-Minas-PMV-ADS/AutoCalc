@@ -22,9 +22,10 @@ Para cada usuário garantir a possibilidade de vincular um ou mais veículos per
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Devido a necessidade e comodidade individual, a procura por automóveis cresceu drasticamente nos últimos anos. Estudos realizados por meio do IBGE indicaram esse aumento entre 2010 a 2018, passando de 37,1 para 54,7 milhões de veículos. Relatórios do Sindipeças mostraram também, alterações significativas, tanto para carros como para caminhões e ônibus circulantes, de 2009 até 2018, houve o crescimento de 29 para 44,8 milhões, sem quedas. Atualmente no Brasil existem mais de 70 milhões de veículos.
+Em razão do aumento da utilização de transportes e inflação, os valores dos combustíveis também se elevaram. Só em 2021, o preço aumentou quase 50%. Infelizmente, muitas pessoas dependem do abastecimento para trabalhar todos os dias e são as mais prejudicadas, muitas vezes precisam ficar atentas à melhor escolha de abastecimento. Sabendo que o tempo dessas pessoas geralmente é curto, nosso software irá ajudar na gestão e no controle de gastos.
+O usuário poderá se cadastrar no site, e, para monitorar também, será possível registrar os seus veículos. Iremos montar uma interface que possibilita ao indivíduo calcular o valor gasto dos abastecimentos diários, semanais, mensais, como preferirem. Dessa forma, o mesmo poderá identificar a melhor forma de economizar. Para acompanhar essa mudança, ele poderá ter acesso à relatórios dos seus abastecimentos na própria plataforma.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
 
 
 ## Público-Alvo
