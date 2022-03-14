@@ -1,6 +1,10 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Com o avanço da pandemia, muitas pessoas passaram a trabalhar como autônomos, como motoristas, ou realizando entregas para empresa, representantes de vendas entre outras, todas estas profissões possuem uma coisa em comum, eles utilizam automóvel para realizar seu trabalho diário, com este cenário vem o problema de que muitas pessoas não tem controle de quanto gastou e quanto teve de lucro.
+
+Tendo isto em mente, o grupo se uniu para realizar o Auto Calc, um site que irá permitir realizar a gestão e controle do número de abastecimentos e de valores, para que estes profissionais ou qualquer pessoa que tenha um automóvel possa utilizar.
+
+Este trabalho visa melhorar a autonomia e controle destas pessoas para que possam aproveitar melhor seu salário tendo maior controle sobre seus gastos referente ao seu veículo.
 
 ## Problema
 Conforme exposto, a adversidade que se busca resolver com este projeto é acerca dos trabalhadores autônomos, que usam de seus veículos como fonte de renda. Visamos que os usuários do site gozem de um recurso online e acessível, que calcule seus gastos com combustível, a fim de que os mesmos otimizem seus lucros e, assim, possam economizar com gasolina. 
