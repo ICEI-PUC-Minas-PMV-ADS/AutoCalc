@@ -12,9 +12,12 @@ Conforme exposto, a adversidade que se busca resolver com este projeto é acerca
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+## 2.1 Objetivos Gerais
+Criar um site que irá auxiliar proprietários de veículos a controlar e monitorar o seu consumo.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+## 2.2 Objetivos Específicos
+Para cada usuário garantir a possibilidade de vincular um ou mais veículos permitindo a visualização de relatórios dos abastecimentos de cada veículo. 
+
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
