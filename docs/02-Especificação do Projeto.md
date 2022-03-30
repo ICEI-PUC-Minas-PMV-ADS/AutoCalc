@@ -28,11 +28,10 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |![](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/blob/main/docs/img/Andre.png)|**Idade:** 56 anos <br><br> **Ocupação:** Sócio de uma empresa   |Aplicativos: Facebook, Whatsapp, LinkedIn.|
 |**Motivações:** André é sócio administrador de uma empresa. Todos os dias gerencia vários representantes comerciais, mas de um tempo para cá tem visto um consumo maior de combustível de cada representante. André precisa limitar os litros para não perder o orçamento mensal, e precisa controlar seus colaboradores visitando clientes. Ele gostaria que cada um trouxesse seus gastos ao financeiro de uma forma padrão para conseguir avaliar a melhor forma de resolver o problema.  |**Frustrações:** André precisa que todos da sua empresa consigam usar o site da melhor forma, tanto para saber com qual combustível irá abastecer, quanto para deixar registrados os gastos. Ele precisa que seja de fácil aprendizado para todos.
 
-| Antônio Carlos     |                                    |                |
+| Antônio Carlos     |                                    |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 |![](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/blob/main/docs/img/Antonio.png)|**Idade:** 64 anos <br><br> **Ocupação:** Aposentado |Aplicativos: Whatsapp, Jornais.|
-|**Motivações:** Antônio possui um carro modelo 2010 e sempre anotou em uma caderneta todos os abastecimentos desde que comprou o veículo. O problema é que hoje ele partilha o carro com seu filho e gostaria de ter controle dos abastecimentos para saber se vale a pena seu filho ir trabalhar de carro ou pegar o ônibus.
-|**Frustrações:** Antônio precisa de ver o preço do combustível diariamente com seu filho, assim como os dois necessitam ter acesso aos dados do carro com uma mesma conta. Antônio precisa passar por um tratamento médico, portanto, precisa economizar.|
+|**Motivações:** Antônio possui um carro modelo 2010 e sempre anotou em uma caderneta todos os abastecimentos desde que comprou o veículo. O problema é que hoje ele partilha o carro com seu filho e gostaria de ter controle dos abastecimentos para saber se vale a pena seu filho ir trabalhar de carro ou pegar o ônibus.|**Frustrações:** Antônio precisa de ver o preço do combustível diariamente com seu filho, assim como os dois necessitam ter acesso aos dados do carro com uma mesma conta. Antônio precisa passar por um tratamento médico, portanto, precisa economizar.|
 
 ## Histórias de Usuários
 
