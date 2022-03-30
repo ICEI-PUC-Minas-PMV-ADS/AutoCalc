@@ -10,15 +10,29 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 | Lucas Silva        |                                    |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/blob/main/docs/img/Lucas.png) 
-|**Idade:** 24 anos <br><br> **Ocupação:** Ocupação: Motorista de aplicativo | Aplicativos: LinkedIn, Whatsapp, Jornais. |
-|**Motivações:** Lucas trabalha bastante e sempre bate metas estabelecidas pela Uber, porém, não vê para onde o dinheiro está indo. Ele tem em mente que a cada 3 dias precisa abastecer novamente,portanto, ele necessita de um meio para analisar os seus gastos semanais e comparar com os lucros.|**Frustrações:**  Por ficar cansado com o trabalho, Lucas acaba deixando as contas e o planejamento de lado, por ser pouco prático anotar e somar tudo sempre sem um espaço específico para isso.
-|**História:** Lucas era um estudante e viu a renda da família cair com a pandemia. Com isso procurou emprego por algum tempo, durante esta procura conheceu a profissão de motorista de aplicativo e está nela há 8 meses.| 
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/blob/main/docs/img/Lucas.png) |**Idade:** 24 anos <br><br> **Ocupação:** Motorista de aplicativo | Aplicativos: LinkedIn, Whatsapp, Jornais. |
+|**Motivações:** Lucas trabalha bastante e sempre bate metas estabelecidas pela Uber, porém, não vê para onde o dinheiro está indo. Ele tem em mente que a cada 3 dias precisa abastecer novamente,portanto, ele necessita de um meio para analisar os seus gastos semanais e comparar com os lucros.  |  **Frustrações:**  Por ficar cansado com o trabalho, Lucas acaba deixando as contas e o planejamento de lado, por ser pouco prático anotar e somar tudo sempre sem um espaço específico para isso. |**História:** Lucas era um estudante e viu a renda da família cair com a pandemia. Com isso procurou emprego por algum tempo, durante esta procura conheceu a profissão de motorista de aplicativo e está nela há 8 meses.| 
 
 | Jaqueline Carvalho |                                    |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/blob/main/docs/img/Jaqueline.png) |**Idade:** 36 anos - **Ocupação:** Representante comercial |Aplicativos: Whatsapp, Facebook, Instagram.|
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/blob/main/docs/img/Jaqueline.png) |**Idade:** 36 anos <br><br> **Ocupação:** Representante comercial |Aplicativos: Whatsapp, Facebook, Instagram.|
 |**Motivações:** Jaqueline sempre bate suas metas na empresa. De uns meses para cá viu seu auxílio combustível se manter o mesmo valor, mas sem conseguir chegar até o final do mês devido aos constantes aumentos dos combustíveis. Jaqueline sempre busca o posto mais barato, porém a empresa só permite abastecer em uma rede onde as opções de postos são limitados, por isso gostaria de um meio que comprovasse sua necessidade de um auxílio maior.  |**Frustrações:**  Apesar de já anotar e pesquisar, Jaqueline precisa de um meio rápido de consulta e de relatórios que não podem se perder, visto que não consegue trabalhar sem eles.|
+
+| José Samarago      |                                    |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/blob/main/docs/img/Jose.png)|**Idade:** 48 anos <br><br> **Ocupação:** Courier, empresa de transportes. |Aplicativos: Whatsapp, Telegram.|
+|**Motivações:** José trabalhou com empresas de entregas durante 10 anos e sempre fez suas contas em uma caderneta. Ele gostaria de um modo em que ele pudesse levar ao seu gestor seus gastos, para que a empresa criasse um auxílio combustível ou parceria com alguma bandeira para melhorar seus rendimentos.  |**Frustrações:** José precisa de um relatório completo com datas e locais para mandar ao seu chefe, mas não pode ser feito manualmente por não ser aceito pela empresa.|
+
+| André Firmino    |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/blob/main/docs/img/Andre.png)|**Idade:** 56 anos <br><br> **Ocupação:** Sócio de uma empresa   |Aplicativos: Facebook, Whatsapp, LinkedIn.|
+|**Motivações:** André é sócio administrador de uma empresa. Todos os dias gerencia vários representantes comerciais, mas de um tempo para cá tem visto um consumo maior de combustível de cada representante. André precisa limitar os litros para não perder o orçamento mensal, e precisa controlar seus colaboradores visitando clientes. Ele gostaria que cada um trouxesse seus gastos ao financeiro de uma forma padrão para conseguir avaliar a melhor forma de resolver o problema.  |**Frustrações:** André precisa que todos da sua empresa consigam usar o site da melhor forma, tanto para saber com qual combustível irá abastecer, quanto para deixar registrados os gastos. Ele precisa que seja de fácil aprendizado para todos.
+
+| Antônio Carlos     |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/blob/main/docs/img/Antonio.png)|**Idade:** 64 anos <br><br> **Ocupação:** Aposentado |Aplicativos: Whatsapp, Jornais.|
+|**Motivações:** Antônio possui um carro modelo 2010 e sempre anotou em uma caderneta todos os abastecimentos desde que comprou o veículo. O problema é que hoje ele partilha o carro com seu filho e gostaria de ter controle dos abastecimentos para saber se vale a pena seu filho ir trabalhar de carro ou pegar o ônibus.
+|**Frustrações:** Antônio precisa de ver o preço do combustível diariamente com seu filho, assim como os dois necessitam ter acesso aos dados do carro com uma mesma conta. Antônio precisa passar por um tratamento médico, portanto, precisa economizar.|
 
 ## Histórias de Usuários
 
