@@ -8,11 +8,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-<img align="center" alt="Lucas Silva" width="100%" src="https://media.discordapp.net/attachments/844003333982257164/952747818936827954/Screenshot_1.png?width=791&height=401">
-<img align="center" alt="Jaqueline Carvalho" width="100%" src="https://media.discordapp.net/attachments/844003333982257164/952747819339513876/Screenshot_2.png">
-<img align="center" alt="Antônio Carlos" width="100%" src="https://media.discordapp.net/attachments/844003333982257164/952747820358729749/Screenshot_5.png">
-<img align="center" alt="José Samarago" width="100%" src="https://media.discordapp.net/attachments/844003333982257164/952747819746332732/Screenshot_3.png">
-<img align="center" alt="André Firmino" width="100%" src="https://media.discordapp.net/attachments/844003333982257164/952747820052529182/Screenshot_4.png">
+| Lucas Silva        |                                    |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|![](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/blob/main/docs/img/Lucas.jpg)|**Idade:** 24 anos - **Ocupação:** Ocupação: Motorista de aplicativo |Aplicativos: LinkedIn, Whatsapp, Jornais.|
+|**Motivações:** Lucas trabalha bastante e sempre bate metas estabelecidas pela Uber, porém, não vê para onde o dinheiro está indo. Ele tem em mente que a cada 3 dias precisa abastecer novamente,portanto, ele necessita de um meio para analisar os seus gastos semanais e comparar com os lucros.|**Frustrações:**  Por ficar cansado com o trabalho, Lucas acaba deixando as contas e o planejamento de lado, por ser pouco prático anotar e somar tudo sempre sem um espaço específico para isso.
+|**História:** Lucas era um estudante e viu a renda da família cair com a pandemia. Com isso procurou emprego por algum tempo, durante esta procura conheceu a profissão de motorista de aplicativo e está nela há 8 meses.| 
 
 ## Histórias de Usuários
 
