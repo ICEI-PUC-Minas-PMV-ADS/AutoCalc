@@ -1,18 +1,26 @@
 # Plano de Testes de Software
 
-|Caso de teste 01     | CT 01 - Gerenciar usuário |
-|-------|-------------------------
-|**Requisitos Associados** | 	 RF-01  O sistema deve gerenciar o usuário
+|Caso de teste     | CT 01 - Gerenciar usuário |
+|--------------------|----------------------------------------------------------------------|
+|**Requisitos Associados** | 	 RF-001  O sistema deve gerenciar o usuário
 |**Objetivo do Teste** | Verificar se a função de cadastro do usuário está operando corretamente. |
 |**Passos**  |	1) Acessar o site “x” com o browser escolhido 2) Clicar no botão “Cadastre-se” 3) Preencher os campos com as informações pessoais, como o nome, telefone, email e senha 4) Clicar no botão “Cadastrar” |
 |**Critérios de Êxito** | “Cadastro realizado”. |
 
-|Caso de Teste |CT-02 – Login do usuário |
+|Caso de Teste |CT-02 – Efetuar login |
 |--------------------|----------------------------------------------------------------------|
-|**Requisitos Associados** | RF-001 - -002: O sistema deve efetuar login do usuário |
+|**Requisitos Associados** | RF-002: O sistema deve efetuar login do usuário |
 |**Objetivo do Teste** | Verificar se a função de login do usuário está operando corretamente. |
 |**Passos** | 1) Acessar o site “x” com o browser escolhido 2) Clicar no botão “Login” 3) Preencher os campos com as informações pessoais, como o email e senha  4) Clicar no botão “Fazer login” |
 |**Critérios de Êxito** | O sistema será direcionado para a homepage com as informações pessoais do próprio usuário. |
+
+|Caso de Teste |CT-03 – Recuperar senha |
+|--------------------|----------------------------------------------------------------------|
+|**Requisitos Associados** | RF-003 - O sistema deve recuperar a senha do usuário. |
+|**Objetivo do Teste** | Conferir se a recuperação de senha está na funcionalidade. |
+|**Passos** | 1) Acessar o site “x” com o browser escolhido 2) Clicar no botão “Esqueci a senha” 3) Informar o e-mail de acesso 4) Informar o código recebido pelo e-mail  5) Digitar a nova senha 5) Clicar na opção “alterar a senha”  |
+|**Critérios de Êxito** | “Sua senha foi alterada com sucesso”. |
+
 
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
