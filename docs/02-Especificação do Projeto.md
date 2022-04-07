@@ -61,7 +61,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O sistema deve cadastrar o usuário | ALTA | 
+|RF-001| O sistema deve gerenciar usuários | ALTA | 
 |RF-002| O sistema deve efetuar login do usuário   | ALTA |
 |RF-003| O sistema deve recuperar a senha do usuário | ALTA |
 |RF-004| O sistema deve gerenciar veículos | ALTA |
