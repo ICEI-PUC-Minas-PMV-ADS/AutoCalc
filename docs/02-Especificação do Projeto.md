@@ -101,4 +101,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |-------------|-----------|----|
 
 
-![use case](https://user-images.githubusercontent.com/91639148/158084473-ffaf37ab-1fbc-4a40-b266-b50d2a2eba0c.png)
+![usecase2](https://user-images.githubusercontent.com/91639148/162327240-a4b38404-b669-4066-baa3-25d1eebfb8d1.png)
