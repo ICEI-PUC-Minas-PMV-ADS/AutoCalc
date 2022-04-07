@@ -2,14 +2,14 @@
 
 |Caso de teste     | CT 01 - Gerenciar usuário |
 |--------------------|----------------------------------------------------------------------|
-|**Requisitos Associados** | 	 RF-001  O sistema deve gerenciar o usuário
+|**Requisitos Associados** | 	 RF-001 - O sistema deve gerenciar o usuário
 |**Objetivo do Teste** | Verificar se a função de cadastro do usuário está operando corretamente. |
 |**Passos**  |	1) Acessar o site “x” com o browser escolhido 2) Clicar no botão “Cadastre-se” 3) Preencher os campos com as informações pessoais, como o nome, telefone, email e senha 4) Clicar no botão “Cadastrar” |
 |**Critérios de Êxito** | “Cadastro realizado”. |
 
 |Caso de Teste |CT-02 – Efetuar login |
 |--------------------|----------------------------------------------------------------------|
-|**Requisitos Associados** | RF-002: O sistema deve efetuar login do usuário |
+|**Requisitos Associados** | RF-002 - O sistema deve efetuar login do usuário |
 |**Objetivo do Teste** | Verificar se a função de login do usuário está operando corretamente. |
 |**Passos** | 1) Acessar o site “x” com o browser escolhido 2) Clicar no botão “Login” 3) Preencher os campos com as informações pessoais, como o email e senha  4) Clicar no botão “Fazer login” |
 |**Critérios de Êxito** | O sistema será direcionado para a homepage com as informações pessoais do próprio usuário. |
@@ -17,9 +17,23 @@
 |Caso de Teste |CT-03 – Recuperar senha |
 |--------------------|----------------------------------------------------------------------|
 |**Requisitos Associados** | RF-003 - O sistema deve recuperar a senha do usuário. |
-|**Objetivo do Teste** | Conferir se a recuperação de senha está na funcionalidade. |
+|**Objetivo do Teste** | Verificar se a recuperação de senha está na funcionalidade. |
 |**Passos** | 1) Acessar o site “x” com o browser escolhido 2) Clicar no botão “Esqueci a senha” 3) Informar o e-mail de acesso 4) Informar o código recebido pelo e-mail  5) Digitar a nova senha 5) Clicar na opção “alterar a senha”  |
 |**Critérios de Êxito** | “Sua senha foi alterada com sucesso”. |
+
+|Caso de Teste |CT-04 – Gerenciar veículos |
+|--------------------|----------------------------------------------------------------------|
+|**Requisitos Associados** | RF-004 - O sistema deve gerenciar veículos. |
+|**Objetivo do Teste** | Verificar se a função de cadastro de veículos está operando corretamente. |
+|**Passos** | 1) Acessar o site “x” com o browser escolhido 2) Fazer o login 3) Clicar no botão "Cadastre o seu veículo" 4) Inserir as informações do veículo, como o modelo, ano e km/l.  5) Clicar no botão "Cadastrar" |
+|**Critérios de Êxito** | "Veículo cadastrado". |
+
+|Caso de Teste |CT-05 – Registrar abastecimentos |
+|--------------------|----------------------------------------------------------------------|
+|**Requisitos Associados** | RF-005 - O sistema deve registrar abastecimentos <br><br> RF-006 - Para cada registro de abastecimento, o sistema deve permitir que o usuário registre comentários |
+|**Objetivo do Teste** | Verificar a funcionalidade do registro de abastecimentos. |
+|**Passos** |  1) Acessar o site “x” com o browser escolhido 2) Fazer o login 3) Selecionar a opção "Meus veículos" 4) Selecionar o veículo necessário 5) Clicar em "registrar o abastecimento", informar a quantidade de litros abastecido, tipo de combustível, valor total gasto, local de abastecimento 6) Adicionar um comentário na opção "comentários" caso necessite informar mais algum detalhe sobre o abastecimento 7) Clicar no botão "Registrar" | 
+|**Critérios de Êxito** | "Registro realizado". |
 
 
 
