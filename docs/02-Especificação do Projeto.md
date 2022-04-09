@@ -11,7 +11,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 | Lucas Silva        |                                    |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 |![](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/blob/main/docs/img/Lucas.png) |**Idade:** 24 anos <br><br> **Ocupação:** Motorista de aplicativo | Aplicativos: LinkedIn, Whatsapp, Jornais. |
-|**Motivações:** Lucas trabalha bastante e sempre bate metas estabelecidas pela Uber, porém, não vê para onde o dinheiro está indo. Ele tem em mente que a cada 3 dias precisa abastecer novamente,portanto, ele necessita de um meio para analisar os seus gastos semanais e comparar com os lucros.  |  **Frustrações:**  Por ficar cansado com o trabalho, Lucas acaba deixando as contas e o planejamento de lado, por ser pouco prático anotar e somar tudo sempre sem um espaço específico para isso. |**História:** Lucas era um estudante e viu a renda da família cair com a pandemia. Com isso procurou emprego por algum tempo, durante esta procura conheceu a profissão de motorista de aplicativo e está nela há 8 meses.| 
+|**Motivações:** Lucas trabalha bastante e sempre bate metas estabelecidas pela Uber, porém, não vê para onde o dinheiro está indo. Ele tem em mente que a cada 3 dias precisa abastecer novamente, portanto, ele necessita de um meio para analisar os seus gastos semanais e comparar com os lucros.  |  **Frustrações:**  Por ficar cansado com o trabalho, Lucas acaba deixando as contas e o planejamento de lado, por ser pouco prático anotar e somar tudo sempre sem um espaço específico para isso. |**História:** Lucas era um estudante e viu a renda da família cair com a pandemia. Com isso procurou emprego por algum tempo, durante esta procura conheceu a profissão de motorista de aplicativo e está nela há 8 meses.| 
 
 | Jaqueline Carvalho |                                    |                                        |
 |--------------------|------------------------------------|----------------------------------------|
@@ -74,10 +74,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA | 
+|RNF-001| O sistema deve ser responsivo para que funcione bem em qualquer dispositivo | ALTA | 
 |RNF-002| O sistema deve ser publicada em um ambiente acessível publicamente na internet | ALTA | 
 |RNF-003| A aplicação deve ser compatível com os navegadores Google Chrome, Firefox, Microsoft Edge| ALTA |
-|RNF-004| O sistema deve permitir o acesso de mais de um usuário a mesma conta | MÉDIA |
+|RNF-004| O sistema deve permitir o acesso de mais de um usuário a mesma conta | BAIXA |
 |RNF-005| A aplicação deve possuir interface limpa, com visualização voltada apenas para as necessidades do usuário no momento | MÉDIA |
 
 ## Restrições
@@ -101,4 +101,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |-------------|-----------|----|
 
 
-![use case](https://user-images.githubusercontent.com/91639148/158084473-ffaf37ab-1fbc-4a40-b266-b50d2a2eba0c.png)
+![usecase2](https://user-images.githubusercontent.com/91639148/162327240-a4b38404-b669-4066-baa3-25d1eebfb8d1.png)
