@@ -22,17 +22,22 @@ Para cada usuário garantir a possibilidade de vincular um ou mais veículos per
 
 ## Justificativa
 
-Devido a necessidade e comodidade individual, a procura por automóveis cresceu drasticamente nos últimos anos. Estudos realizados por meio do IBGE indicaram esse aumento entre 2010 a 2018, passando de 37,1 para 54,7 milhões de veículos. Relatórios do Sindipeças mostraram também, alterações significativas, tanto para carros como para caminhões e ônibus circulantes, de 2009 até 2018, houve o crescimento de 29 para 44,8 milhões, sem quedas. Atualmente no Brasil existem mais de 70 milhões de veículos.
-Em razão do aumento da utilização de transportes e inflação, os valores dos combustíveis também se elevaram. Só em 2021, o preço aumentou quase 50%. Infelizmente, muitas pessoas dependem do abastecimento para trabalhar todos os dias e são as mais prejudicadas, muitas vezes precisam ficar atentas à melhor escolha de abastecimento. Sabendo que o tempo dessas pessoas geralmente é curto, nosso software irá ajudar na gestão e no controle de gastos.
-O usuário poderá se cadastrar no site, e, para monitorar também, será possível registrar os seus veículos. Iremos montar uma interface que possibilita ao indivíduo calcular o valor gasto dos abastecimentos diários, semanais, mensais, como preferirem. Dessa forma, o mesmo poderá identificar a melhor forma de economizar. Para acompanhar essa mudança, ele poderá ter acesso à relatórios dos seus abastecimentos na própria plataforma.
+ Devido a necessidade e comodidade individual, a procura por automóveis cresceu drasticamente nos últimos anos. Estudos realizados por meio do IBGE indicaram esse aumento entre 2010 a 2018, passando de 37,1 para 54,7 milhões de veículos. Relatórios do Sindipeças mostraram também, alterações significativas, tanto para carros como para caminhões e ônibus circulantes, de 2009 até 2018, houve o crescimento de 29 para 44,8 milhões, sem quedas. Atualmente no Brasil existem mais de 70 milhões de veículos.
+Em razão do aumento da utilização de transportes e inflação, os valores dos combustíveis também se elevaram. Só em 2021, o preço aumentou quase 50%. Infelizmente, muitas pessoas dependem do abastecimento para trabalhar todos os dias e são as mais prejudicadas, muitas vezes precisam ficar atentas à melhor escolha de abastecimento. 
 
 
 
 ## Público-Alvo
 
-Apesar de ser um projeto aberto para todo o público adepto a carros, o foco deste trabalho é facilitar o cálculo de consumo de combustível pelo indivíduo que trabalha com seu automóvel por conta própria, pretendendo que o mesmo desfrute de uma ferramenta que o ajudará com seu controle de gastos (semanais ou mensais) e a melhor escolha de “alimentação” para seu veículo. 
+Apesar de ser um projeto aberto para todo o público adepto a carros, o foco deste trabalho é facilitar o cálculo de consumo de combustível pelo indivíduo que trabalha com seu automóvel por conta própria, pretendendo que o mesmo desfrute de uma ferramenta que o ajudará com seu controle de gastos (semanais ou mensais) e a melhor escolha de combustível para seu veículo. 
  
 De acordo com o Denatran, o Brasil já tem 1 carro a cada 4 habitantes. Combinado com essa realidade, o projeto também é de interesse para pessoas que não usam o carro como fonte de renda, mas também querem reduzir sua despesa com gasolina.
 
 
+## Fontes
 
+Frota de Veículos. Disponível em: <https://cidades.ibge.gov.br/brasil/pesquisa/22/28120> Acessado em 8 de março de 2022.
+
+Relatório da Frota circulante. Disponível em: <https://www.sindipecas.org.br/sindinews/Economia/2019/RelatorioFrotaCirculante_Maio_2019.pdf> Acessado em 8 de março de 2022.
+
+Associação Nacional dos DETRANS. Disponível em: <http://www.and.org.br/brasil-ja-tem-1-carro-a-cada-4-habitantes-diz-denatran/> Acessado em 9 de março de 2022.
