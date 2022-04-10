@@ -1,9 +1,9 @@
 # Plano de Testes de Software
 
 Os requisitos para realização dos testes de software são:
-* Site publicado na Internet
-* Navegador da Internet - Google Chrome, Firefox, Microsoft Edge
-Os testes funcionais a serem realizados são descritos a seguir.
+- Site publicado na Internet
+- Navegador da Internet - Google Chrome, Firefox, Microsoft Edge
+- Qualquer dispositivo <br> <br> Os testes funcionais a serem realizados são descritos a seguir.
 
 ## Roteiro
 
@@ -70,11 +70,6 @@ Os testes funcionais a serem realizados são descritos a seguir.
 |**Passos** |  1) Acessar o site “x” com o browser escolhido 2) Fazer o login 3) Selecionar a opção "emitir relatórios" 4) Selecionar a data desejada  5) Clicar em "emitir relatório"  | 
 |**Critérios de Êxito** | Será visualizado uma tela com o relatório conforme solicitado. |
 
-|Caso de Teste |CT-10 – Exportar relatório dos abastecimentos |
-|--------------------|----------------------------------------------------------------------|
-|**Requisitos Associados** | RF-008 - O sistema deve ter a opção de extrair relatório em forma de gráfico sobre o gasto dos abastecimentos |
-|**Objetivo do Teste** | Verificar se a opção de extrair relatórios em forma de gráfico está operando corretamente. |
-|**Passos** |  1) Acessar o site “x” com o browser escolhido 2) Fazer o login 3) Selecionar a opção "emitir relatórios" 4) Selecionar a data desejada  5) Clicar em "extrair relatório em gráfico" | 
-|**Critérios de Êxito** | Será aberto o explorador de arquivos para salvar o relatório em gráfico  |
+
 
 

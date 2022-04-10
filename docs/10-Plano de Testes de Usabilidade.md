@@ -9,7 +9,8 @@ Para cada tarefa do participante é possível medir:
 - Facilidade em realizar a ação;
 - Efetivação da tarefa;
 - Quantos erros ocorreram em cada ação;
-- Quanto tempo foi necessário para concluí-la.
+- Quanto tempo foi necessário para concluí-la;
+- Se a interface do sistema é apresentável.
 
 ## Roteiro
 
@@ -19,11 +20,11 @@ Para cada tarefa do participante é possível medir:
 
 | **Tarefa 2** | **Critério de Êxito** | **O que será avaliado** |
 |--------------|-----------------------|-------------------------|
-|Logar no sistema. | O sistema será direcionado para a homepage com as informações do próprio usuário. | Facilidade em realizar a ação. Efetivação da tarefa. Quantidade de erros cometidos. Tempo necessario para se concluir.  |
+|Logar no sistema. | O sistema será direcionado para a homepage com as informações do próprio usuário. | Facilidade em realizar a ação. Efetivação da tarefa. Quantidade de erros cometidos. Tempo necessario para se concluir. Interface apresentável.  |
 
 | **Tarefa 3** | **Critério de Êxito** | **O que será avaliado** |
 |--------------|-----------------------|-------------------------|
-|Registrar mais de um veículo. | Concluir o cadastro, considerando a mensagem "Veículo realizado". | Facilidade em realizar a ação. Efetivação da tarefa. Quantidade de erros cometidos. Tempo necessario para se concluir. |
+|Registrar mais de um veículo. | Concluir o cadastro, considerando a mensagem "Veículo cadastrado". | Facilidade em realizar a ação. Efetivação da tarefa. Quantidade de erros cometidos. Tempo necessario para se concluir. |
 
 | **Tarefa 4** | **Critério de Êxito** | **O que será avaliado** |
 |--------------|-----------------------|-------------------------|
@@ -33,3 +34,6 @@ Para cada tarefa do participante é possível medir:
 |--------------|-----------------------|-------------------------|
 |Visualizar relatórios. | Será visualizado uma tela com o relatório conforme solicitado. | Facilidade em realizar a ação. Efetivação da tarefa. Quantidade de erros cometidos. Tempo necessario para se concluir. |
 
+| **Tarefa 6** | **Critério de Êxito** | **O que será avaliado** |
+|--------------|-----------------------|-------------------------|
+|Fazer observação em registros dos veículos. | Será feito uma observação ao registrar o abastecimento e após o registro do abastecimento  | Facilidade em realizar a ação. Efetivação da tarefa. Quantidade de erros cometidos. Tempo necessario para se concluir. |
