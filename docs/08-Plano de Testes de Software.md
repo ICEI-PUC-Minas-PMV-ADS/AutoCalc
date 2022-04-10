@@ -11,13 +11,13 @@ Os requisitos para realização dos testes de software são:
 |--------------------|----------------------------------------------------------------------|
 |**Requisitos Associados** | 	 RF-001 - O sistema deve gerenciar o usuário
 |**Objetivo do Teste** | Verificar se a função de cadastro do usuário está operando corretamente. |
-|**Passos**  |	1) Acessar o site “x” com o browser escolhido 2) Clicar no botão “Cadastre-se” 3) Preencher os campos com as informações pessoais, como o nome, telefone, email e senha 4) Clicar no botão “Cadastrar” |
+|**Passos**  |	1) Acessar o site “x” com o browser escolhido 2) Clicar no botão “Cadastre-se” 3) Preencher os campos com as informações pessoais, como o nome, email e senha 4) Clicar no botão “Cadastrar” |
 |**Critérios de Êxito** | “Cadastro realizado”. |
 
 |Caso de teste     | CT 02 - Gerenciar usuário (Excluir cadastro) |
 |--------------------|----------------------------------------------------------------------|
 |**Requisitos Associados** | 	 RF-001 - O sistema deve gerenciar o usuário
-|**Objetivo do Teste** | Verificar se a função de excluir o cadastro do usuário está operando corretamente. |
+|**Objetivo do Teste** | Verificar se a função de excluir o cadastro do usuário está operando corretamente.|
 |**Passos**  |	1) Acessar o site “x” com o browser escolhido 2) Fazer o login 3) Selecionar "excluir cadastro" |
 |**Critérios de Êxito** | “Cadastro excluído com sucesso”. |
 
@@ -60,7 +60,7 @@ Os requisitos para realização dos testes de software são:
 |--------------------|----------------------------------------------------------------------|
 |**Requisitos Associados** | RF-005 - O sistema deve registrar abastecimentos <br><br> RF-006 - Para cada registro de abastecimento, o sistema deve permitir que o usuário registre comentários |
 |**Objetivo do Teste** | Verificar a funcionalidade do registro de abastecimentos. |
-|**Passos** |  1) Acessar o site “x” com o browser escolhido 2) Fazer o login 3) Selecionar a opção "Meus veículos" 4) Selecionar o veículo necessário 5) Clicar em "registrar o abastecimento", informar a quantidade de litros abastecido, tipo de combustível, valor total gasto, local de abastecimento 6) Adicionar um comentário na opção "comentários" caso necessite informar mais algum detalhe sobre o abastecimento 7) Clicar no botão "Registrar" | 
+|**Passos** |  1) Acessar o site “x” com o browser escolhido 2) Fazer o login 3) Selecionar o veículo necessário 4) Clicar em "registrar o abastecimento", informar a quantidade de litros abastecido, tipo de combustível, valor total gasto, local de abastecimento 5) Adicionar um comentário na opção "comentários" caso necessite informar mais algum detalhe sobre o abastecimento 6) Clicar no botão "Registrar" | 
 |**Critérios de Êxito** | "Registro realizado". |
 
 |Caso de Teste |CT-09 – Visualizar registro de abastecimentos |
