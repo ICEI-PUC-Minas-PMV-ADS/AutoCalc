@@ -7,9 +7,8 @@ O teste de usabilidade permite avaliar a qualidade da interface com o usuário d
 Para cada tarefa do participante é possível medir:
 
 - Facilidade em realizar a ação;
-- Concretização da tarefa;
-- O total de erros cometidos;
-- Quantos erros de cada tipo ocorreram;
+- Efetivação da tarefa;
+- Quantos erros ocorreram em cada ação;
 - Quanto tempo foi necessário para concluí-la.
 
 ## Roteiro

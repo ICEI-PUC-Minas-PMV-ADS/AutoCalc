@@ -5,6 +5,7 @@ Os requisitos para realização dos testes de software são:
 * Navegador da Internet - Google Chrome, Firefox, Microsoft Edge
 Os testes funcionais a serem realizados são descritos a seguir.
 
+## Roteiro
 
 |Caso de teste     | CT 01 - Gerenciar usuário (Criar cadastro) |
 |--------------------|----------------------------------------------------------------------|
