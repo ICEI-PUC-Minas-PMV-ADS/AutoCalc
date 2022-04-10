@@ -13,7 +13,7 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. 
 
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/blob/main/docs/img/Untitled%20Diagram.drawio)
+![](docs/img/Untitled Diagram.drawio.png)
 
 ## Wireframes
 
