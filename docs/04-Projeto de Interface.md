@@ -17,11 +17,9 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamen
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
-
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
 
-# Modal - Login
+### Modal - Login
 
 ![modal login](https://user-images.githubusercontent.com/91639148/162653545-5d95a55d-75be-4542-80ac-6dd7e42ad9bb.jpg)
  
