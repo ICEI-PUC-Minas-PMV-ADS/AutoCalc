@@ -62,9 +62,9 @@ As ferramentas empregadas no projeto são:
 
 - Editor de código: Visual Studio Code.
 - Ferramentas de comunicação: Microsoft Teams, Whatsapp.
-- Ferramentas para criação de diagramas: Astah UML.
+- Ferramentas para criação de diagramas: Astah UML, diagrams.net
 - Ferramentas de desenho de tela (_wireframing_): Figma.
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas são acessíveis por já terem sido usadas por todos anteriormente, além de possuir tudo que é necessário para a comunicação, como: chamas de vídeo (com opção de compartilhamento de tela) e aúdio, mensagens escritas via chat e compartilhamento de fotos. Escolhemos o Ashtah UML
-por recomendação da Universidade e, por fim, para criar diagramas utilizamos o Figma por ser uma ferramenta gratuita e que permite acesso por mais de um usuário.
+por recomendação da Universidade e o diagrams.net por ter menos limitações do que o astah e, por fim, para criar diagramas utilizamos o Figma por ser uma ferramenta gratuita e que permite acesso por mais de um usuário.
