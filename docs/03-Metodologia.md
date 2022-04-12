@@ -14,7 +14,7 @@ Ambiente|Plataforma|Link de Acesso
 |Repositório|GitHub|  [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc)|
 |Documentos do projeto|GitHubDocs|Projeto Auto Calc|[GitHubDocs](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/tree/main/docs)|
 |Projeto de Interface e  Wireframes|Figma|Figma |[Figma](Figma | Ferramenta de colaboração e design de UI/UX rápida e avançada)|
-|Gerenciamento do Projeto|Github|Auto Calc (github.com)|
+|Gerenciamento do Projeto|Trello|Auto Calc (Trello)|
 
 ## Controle de Versão
 
@@ -66,7 +66,7 @@ A equipe está organizada da seguinte maneira:
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello.
 
-O trello está estruturado em:
+O trello está estruturado em: <br><br>
 **Product backlog** - Pilha do que deve ser desenvolvido <br><br>
 **Doing** - Pilha do que está sendo desenvolvido naquela sprint <br><br>
 **Done** - Pilha do que foi concluído <br><br>
