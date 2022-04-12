@@ -3,7 +3,18 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A Metodologia consiste nas definições da ferramenta utilizada pelo grupo tanto para a manutenção dos códigos e outros artefatos, como para a associação e compreensão do time no cumprimento das tarefas. Portanto, é necessário definir os objetivos, para que as partes envolvidas compreendam os padrões preestabelecidos a fim de garantir que o projeto seja desenvolvido de forma eficiente.
+
+## Relação de Ambientes de Trabalho
+
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue
+
+Ambiente|Plataforma|Link de Acesso
+|:--------|:----------:|:--------------:|
+|Repositório|GitHub|  [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t2-descarte-sustentavel)|
+|Documentos do projeto|GitHubDocs|Projeto Descarte Sustentável|[GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/tree/main/docs)|
+|Projeto de Interface e  Wireframes|Figma|Figma |[Figma](Figma | Ferramenta de colaboração e design de UI/UX rápida e avançada)|
+|Gerenciamento do Projeto|Github|Auto Calc (github.com)|
 
 ## Controle de Versão
 
@@ -39,12 +50,17 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe irá utilizar o framework Scrum, para que seja possível ter entregas que geram mais valor ao cliente, validando a hipótese enquanto é desenvolvida. Assim também, conseguimos obter um melhor gerenciamento da equipe de acordo com histórias passadas.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+A equipe está organizada da seguinte maneira:  
+
+* _Scrum Master_: 
+* _Product Owner_:  
+* _Equipe de Desenvolvimento_:
+  - 
+  - 
+  -	
+  -	
 
 ### Processo
 
