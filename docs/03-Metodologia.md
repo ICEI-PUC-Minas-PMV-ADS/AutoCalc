@@ -64,15 +64,14 @@ A equipe está organizada da seguinte maneira:
 
 ### Processo
 
-Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello.
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o quadro kanban do GitHub.
 
-O trello está estruturado em: <br><br>
-**Product backlog** - Pilha do que deve ser desenvolvido <br><br>
-**Doing** - Pilha do que está sendo desenvolvido naquela sprint <br><br>
-**Done** - Pilha do que foi concluído <br><br>
-**Canceled** - Pilha de itens cancelados
+O GitHub está estruturado em: <br><br>
+**To do** - Pilha do que deve ser desenvolvido <br><br>
+**In progress** - Pilha do que está sendo desenvolvido naquela sprint <br><br>
+**Done** - Pilha do que foi concluído 
 
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/blob/main/docs/img/TrelloProjetoADS.png?raw=true)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/blob/main/docs/img/OrganizacaoGitHub.png?raw=true)
 
 ### Ferramentas
 
