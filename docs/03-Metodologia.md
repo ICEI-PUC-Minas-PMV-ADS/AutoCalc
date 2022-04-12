@@ -12,9 +12,9 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 Ambiente|Plataforma|Link de Acesso
 |:--------|:----------:|:--------------:|
 |Repositório|GitHub|  [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc)|
-|Documentos do projeto|GitHubDocs|Projeto Auto Calc|[GitHubDocs](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/tree/main/docs)|
-|Projeto de Interface e  Wireframes|Figma|Figma |[Figma](Figma | Ferramenta de colaboração e design de UI/UX rápida e avançada)|
-|Gerenciamento do Projeto|Trello|Auto Calc (Trello)|
+|Documentos do projeto|GitHubDocs| [GitHubDocs](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/tree/main/docs)|
+|Projeto de Interface e  Wireframes|Figma|Figma |[GitHu](Figma | Ferramenta de colaboração e design de UI/UX rápida e avançada)|
+|Gerenciamento do Projeto|GitHub| [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/projects/2) |
 
 ## Controle de Versão
 
