@@ -67,9 +67,9 @@ A equipe está organizada da seguinte maneira:
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello.
 
 O trello está estruturado em:
-**Product backlog** - Pilha do que deve ser desenvolvido
-**Doing** - Pilha do que está sendo desenvolvido naquela sprint
-**Done** - Pilha do que foi concluído
+**Product backlog** - Pilha do que deve ser desenvolvido <br><br>
+**Doing** - Pilha do que está sendo desenvolvido naquela sprint <br><br>
+**Done** - Pilha do que foi concluído <br><br>
 **Canceled** - Pilha de itens cancelados
 
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/blob/main/docs/img/TrelloProjetoADS.png?raw=true)
