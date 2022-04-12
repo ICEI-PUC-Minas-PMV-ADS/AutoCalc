@@ -12,7 +12,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 Ambiente|Plataforma|Link de Acesso
 |:--------|:----------:|:--------------:|
 |Repositório|GitHub|  [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc)|
-|Documentos do projeto|GitHubDocs|Projeto Auto Calc|[GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/tree/main/docs)|
+|Documentos do projeto|GitHubDocs|Projeto Auto Calc|[GitHubDocs](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/tree/main/docs)|
 |Projeto de Interface e  Wireframes|Figma|Figma |[Figma](Figma | Ferramenta de colaboração e design de UI/UX rápida e avançada)|
 |Gerenciamento do Projeto|Github|Auto Calc (github.com)|
 
@@ -54,23 +54,25 @@ A equipe irá utilizar o framework Scrum, para que seja possível ter entregas q
 
 A equipe está organizada da seguinte maneira:  
 
-* _Scrum Master_: 
-* _Product Owner_:  
-* _Equipe de Desenvolvimento_:
-  - 
-  - 
-  -	
-  -	
+* Scrum Master: Eduardo Lucci Imakawa de Andrade
+* Product Owner: Heloisa Soares Ferreira 
+* Equipe de Desenvolvimento:
+  - Jéssica Raíssa Araújo Oliveira Queiroz Lopes
+  - Julia Berto Rosa
+  -	Júlia Mendes Lima da Cunha
+  -	Ian Amaral Barbosa Moreira
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello.
+
+O trello está estruturado em:
+**Product backlog** - Pilha do que deve ser desenvolvido
+**Doing** - Pilha do que está sendo desenvolvido naquela sprint
+**Done** - Pilha do que foi concluído
+**Canceled** - Pilha de itens cancelados
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/blob/main/docs/img/TrelloProjetoADS.png?raw=true)
 
 ### Ferramentas
 
