@@ -11,7 +11,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 Ambiente|Plataforma|Link de Acesso
 |:--------|:----------:|:--------------:|
-|Repositório|GitHub|  [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t2-descarte-sustentavel)|
+|Repositório|GitHub|  [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc)|
 |Documentos do projeto|GitHubDocs|Projeto Descarte Sustentável|[GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/AutoCalc/tree/main/docs)|
 |Projeto de Interface e  Wireframes|Figma|Figma |[Figma](Figma | Ferramenta de colaboração e design de UI/UX rápida e avançada)|
 |Gerenciamento do Projeto|Github|Auto Calc (github.com)|
