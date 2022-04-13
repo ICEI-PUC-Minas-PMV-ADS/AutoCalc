@@ -45,6 +45,24 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 
 ![tela principal](https://user-images.githubusercontent.com/91639148/163276384-1ac9b525-aca7-4af1-ad17-dfee2656ce04.jpg)
 
+### Modal - Registrar abastecimento
+
+![registrar abastecimento](https://user-images.githubusercontent.com/91639148/163276894-5241e197-4e16-4eb5-95bc-6a76da4342c9.jpg)
+
+### Fluxo - Registros abastecimento
+
+![registros abastecimento](https://user-images.githubusercontent.com/91639148/163276986-e2b6d974-5465-47fa-bf74-db2821e10b80.jpg)
+
+![edit observaçoes](https://user-images.githubusercontent.com/91639148/163277011-241be1f3-a37c-402e-8768-89667f5c1886.jpg)
+
+### Modal - Gerenciar Veículos
+
+![gerenciar veículos](https://user-images.githubusercontent.com/91639148/163277090-79e7e9fe-a701-4db2-b255-991d42f2386a.jpg)
+
+### Modal - Gerenciar usuário
+
+![sua conta](https://user-images.githubusercontent.com/91639148/163277108-e88f15c5-c871-4d9a-a205-25b61814d002.jpg)
+
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
