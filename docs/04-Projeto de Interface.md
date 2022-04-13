@@ -22,6 +22,10 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 ### Modal - Login
 
 ![modal login](https://user-images.githubusercontent.com/91639148/162654746-1b9a5486-55b5-43b6-a693-944634b1e966.jpg)
+
+### Modal - Recuperar senha
+
+![recuperação de senha email](https://user-images.githubusercontent.com/91639148/163275886-d3608f79-4073-4458-a888-fcbb70542ef2.jpg)
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
