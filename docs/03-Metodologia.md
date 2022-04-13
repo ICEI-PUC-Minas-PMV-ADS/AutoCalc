@@ -22,6 +22,12 @@ A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 foi utilizado para hospedagem do repositório.
 
+O projeto segue a seguinte convenção para utilizar commits:
+
+- `git commit`: inicia o processo de commit
+- `git commit --amend`: substitui o commit mais recente por um novo commit
+- `git reverse`: analisa as mudanças introduzidas em um commit específico e aplica o inverso dessas mudanças em um novo commit
+
 O projeto segue a seguinte convenção para o nome de branches:
 
 - `main`: versão estável já testada do software
@@ -29,6 +35,7 @@ O projeto segue a seguinte convenção para o nome de branches:
 - `testing`: versão em testes do software
 - `dev`: versão de desenvolvimento do software
 
+Contamos com as funcionalidades disponíveis na ferramenta para realizar o registro e gestão de issues, aquelas demandas que surgem no decorrer da execução do projeto e podem impactor o desempenho da aplicação ou inviabilizar a continuidade.
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
 etiquetas:
 
@@ -36,8 +43,6 @@ etiquetas:
 - `bug`: uma funcionalidade encontra-se com problemas
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
 > **Links Úteis**:
 > - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
