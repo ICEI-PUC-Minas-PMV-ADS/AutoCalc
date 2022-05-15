@@ -8,303 +8,273 @@ O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em 
 
 ### [0.1.0] - 11/05/2022
 
-Linha 19 = Pagina inicial
-Linha 55 = Gerenciar Conta
-Linha 94 = Gerenciar Veículo
-Linha 130 = Gerenciar Perfil
-Linha 159 = Gerenciar Abastecimento
-Linha 228 =  CSS
+CRUD Abastecimento
+Index
 
+@model IEnumerable<AutoCalc.Models.Class2>
 
-################################################################### Pagina Inicial ###################################################################
+@{
+    ViewData["Title"] = "Index";
+}
 
+<h1>Index</h1>
 
-<!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" type="text/css" href="AutoCalc .CSS" media="screen">
-</head>
-<body>
-    <div>
-        <h1 id="titulo"> AUTOCALC</h1>
-    </div>
-    <p id="subtitulo" > Controle de abastecimento</p>
-    <img src = "Imagens/Logo Auto Calc.jpg"
-        width = "300"
-        height = "300" >
-    <p>
-    <a href="https://universoagvbrasil.online/"><img src = "imagens/Empresa 1.png" 
-        width = "150"
-        height = "50"
-        alt = " Empresa parceira 1 ">
-    <a href="https://assine.bulbeenergia.com.br/#/share/U4n2k2"><img src = "imagens/Empresa 2.png"
-        width = "150"
-        height= "50"
-        alt =  "Empresa parceira 2" >
-    </p>
-    <div class="campo">
-    <p>
-    <a href="AutoCalc  registrar usuario.html"><button class="botao">Crie uma conta</button>
-    <a href="AutoCalc login e senha.html"><button class="botao">Entre</button>
-    </p>
-    </div>
-</body>
-</html>
-      
-      
-################################################################### Gerenciar Conta ###################################################################
-      
-      
-<!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" type="text/css" href="AutoCalc .CSS" media="screen">
-</head>
-<body>
-    <div>
-        <h1 id="titulo">Cadastrar Usuário </h1>
-    </div>
-    <p id="subtitulo">Insira seus dados pessoais para prosseguir</p>
-    <form>
-        <Fieldset class="grupo">
-                <div class="campo">
-                     <label for="Nome"> Nome </label>
-                     <input type="text" name="nome" id="nome" required>
-                </div>
-
-                <div class="campo">
-                     <label for="sobrenome"> sobrenome </label>
-                     <input type="text" name="sobrenome" id="sobrenome" required>
-                </div>
-        </Fieldset>
-                <div class="campo">
-                    <label for="E-mail"> E-mail</label>
-                    <input type="e-mail" name="e-mail" id="e-mail" required>
-                </div>
-                <div  class="campo">
-                    <label> Senha</label>
-                    <input type="password" name="Senha" id="Senha" required>
-                </div>
-    </form>
-    <a href="AutoCalc  registrar veiculo.html"><button class="botao">concluído</button>
-    <a href="AutoCalc inicial .html"><button class="botao" >Cancelar</button>
-</body>
-</html>      
-  
-################################################################### Gerenciar Veiculos ###################################################################
-  
-  <!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" type="text/css" href="AutoCalc .CSS" media="screen">
-</head>
-<body>
-    <div>
-        <h1 id="titulo">Cadastrar Veículo</h1>
-    </div>
-    <p id="subtitulo">Insira os dados do seu carro para prosseguir</p>
-    <form>
-        <Fieldset class="grupo">
-                <div class="campo">
-                     <label> Modelo </label>
-                     <input type="text" name="nome" id="nome" required>
-                </div>
-
-                <div class="campo">
-                     <label> Placa do carro </label>
-                     <input type="text" name="placa" id="placa" required>
-                </div>
-
-                <div class="campo">
-                    <label> Ano </label>
-                    <input type="number" name="ano" id="ano" required>
-               </div>
-        </Fieldset>
-    </form>
-    <a href="AutoCalc Perfil.html"><button class="botao">Concluído</button>
-    <a href="AutoCalc  registrar usuario.html"><button class="botao">Cancelar</button>
-</body>
-</html>
-  
-  
-      ################################################################### Gerenciar Perfil ###################################################################
-      
-      
-<!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" type="text/css" href="AutoCalc .CSS" media="screen">
-</head>
-<body>
-    <div>
-        <h1 id="titulo">Perfil</h1>
-    </div>
-    <Img src = "Imagens/Perfil1.png">
 <p>
-    Login
-    E-mail
-    Nome do veículo
-    Placa do veículo
+    <a asp-action="Create">Create New</a>
 </p>
-<p>
-    <a href="AutoCalc  registrar abastecimento.html"><button class="botao">Cadastrar Abastecimento</button> 
-    <a href="AutoCalc  registrar veiculo.html"><button class="botao">Cadastrar outro Veículo</button>
-    <a href=""><button class="botao">Relatórios</button>   
-    <a href="AutoCalc inicial .html"><button class="botao">Sair</button>
-</p>
-</body>
-</html>
-      
-      
-      ################################################################### Gerenciar Abastecimento ###################################################################
-  
-      
-  <!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" type="text/css" href="AutoCalc .CSS">
-</head>
-<body>
-    <div>
-        <h1 id="titulo">Cadastro Abastecimento</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Data)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NomeDoPosto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ValorPorLitro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotaldeLitrosABastecido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ValorTotal)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KilometragemTotalDoVeiculo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QualtipodeCombustivel)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Data)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomeDoPosto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ValorPorLitro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotaldeLitrosABastecido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ValorTotal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KilometragemTotalDoVeiculo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QualtipodeCombustivel)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+
+
+Criar
+
+@model AutoCalc.Models.Class2
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Class2</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Data" class="control-label"></label>
+                <input asp-for="Data" class="form-control" />
+                <span asp-validation-for="Data" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NomeDoPosto" class="control-label"></label>
+                <input asp-for="NomeDoPosto" class="form-control" />
+                <span asp-validation-for="NomeDoPosto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ValorPorLitro" class="control-label"></label>
+                <input asp-for="ValorPorLitro" class="form-control" />
+                <span asp-validation-for="ValorPorLitro" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotaldeLitrosABastecido" class="control-label"></label>
+                <input asp-for="TotaldeLitrosABastecido" class="form-control" />
+                <span asp-validation-for="TotaldeLitrosABastecido" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ValorTotal" class="control-label"></label>
+                <input asp-for="ValorTotal" class="form-control" />
+                <span asp-validation-for="ValorTotal" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KilometragemTotalDoVeiculo" class="control-label"></label>
+                <input asp-for="KilometragemTotalDoVeiculo" class="form-control" />
+                <span asp-validation-for="KilometragemTotalDoVeiculo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="QualtipodeCombustivel" class="control-label"></label>
+                <input asp-for="QualtipodeCombustivel" class="form-control" />
+                <span asp-validation-for="QualtipodeCombustivel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
     </div>
-    <p id="subtitulo">Insira os dados de seu Abastecimento</p>
+</div>
 
-    <form>
-                <div class="campo">
-                     <label> Data </label>
-                     <input type="date" name="Data" id="Data" >
-                </div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
 
-                <div class="campo">
-                     <label> Nome do Posto </label>
-                     <input type="text" name="Nome do Posto" id="Nome do Posto" >
-                </div>
+Editar
 
-                <div class="campo">
-                    <label> Valor por Litro </label>
-                    <input type="number" name="Valor por Litro" id="Valor por Litro" >
-                </div>
+@model AutoCalc.Models.Class2
 
-                <div class="campo">
-                    <label> Valor Total </label>
-                    <input type="number" name="valor total" id="valor total" >
-                </div>
+@{
+    ViewData["Title"] = "Edit";
+}
 
-                <div class="campo">
-                <label> Total de Litros Abastecido </label>
-                <input type="number" name="Total de Litros" id="Total de Litros" >
-                </div>
+<h1>Edit</h1>
 
-                <div class="campo">
-                    <label> Kilometragem total do veículo</label>
-                    <input type="number" name="kilometragem total" id="kilometragem total" >
-                </div>
+<h4>Class2</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Data" class="control-label"></label>
+                <input asp-for="Data" class="form-control" />
+                <span asp-validation-for="Data" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NomeDoPosto" class="control-label"></label>
+                <input asp-for="NomeDoPosto" class="form-control" />
+                <span asp-validation-for="NomeDoPosto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ValorPorLitro" class="control-label"></label>
+                <input asp-for="ValorPorLitro" class="form-control" />
+                <span asp-validation-for="ValorPorLitro" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotaldeLitrosABastecido" class="control-label"></label>
+                <input asp-for="TotaldeLitrosABastecido" class="form-control" />
+                <span asp-validation-for="TotaldeLitrosABastecido" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ValorTotal" class="control-label"></label>
+                <input asp-for="ValorTotal" class="form-control" />
+                <span asp-validation-for="ValorTotal" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KilometragemTotalDoVeiculo" class="control-label"></label>
+                <input asp-for="KilometragemTotalDoVeiculo" class="form-control" />
+                <span asp-validation-for="KilometragemTotalDoVeiculo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="QualtipodeCombustivel" class="control-label"></label>
+                <input asp-for="QualtipodeCombustivel" class="form-control" />
+                <span asp-validation-for="QualtipodeCombustivel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
 
-                <div class="campo">
-                    <label>Qual tipo de Combústivel?</label>
-                    <label> Gasolina 
-                        <input type="radio" name="Combustivel" value="Gasolina" >
-                    </label>
-                    <label> Alcool 
-                        <input type="radio" name="Combustivel" Value="Alcool" >
-                    </label>
-                </div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
 
-                    <div class="campo">
-                        <label> Observações </label>
-                        <input type="text" name="Observações" id="Observações">
-                    </div>
-                    
-    </form>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+
+Deletar
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Class2</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Data)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Data)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NomeDoPosto)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NomeDoPosto)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ValorPorLitro)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ValorPorLitro)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TotaldeLitrosABastecido)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TotaldeLitrosABastecido)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ValorTotal)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ValorTotal)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.KilometragemTotalDoVeiculo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KilometragemTotalDoVeiculo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.QualtipodeCombustivel)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.QualtipodeCombustivel)
+        </dd>
+    </dl>
     
-        <a href="AutoCalc Perfil.html"><button class="botao">Concluído</button>
-        <a href="AutoCalc Perfil.html"><button class="botao">Cancelar</button>
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
 
-</body>
-</html>
-  
-  
-################################################################### CSS ###################################################################
-  
-  
-  *{
-    margin:0;
-    padding:0;
-}
-
-#titulo {
-    font-family: sans-serif;
-    color: black;
-    justify-content: center
-}
-
-#subtitulo {
-    font-family: sans-serif;
-    color: black;
-    justify-content: center
-}
-fieldset {
-border: 0;
-}
-
-body {
-    background-color: white;
-    font-family: sans-serif;
-    font-size: small ;
-    color: black;
-    margin-top: 2%;
-    margin-left: 36%;
-    justify-content: center;
-}
-
-input, select, textarea, button {
-    border-radius: 5px;
-} 
-
-.campo {
-margin-bottom: 1em;
-}
-
-.campo label {
-    margin-bottom: 0.2em;
-    color: black;
-    display: block;
-}
-
-fieldset .grupo .campo {
-    float: left;
-    margin-right: 1em;
-}
-
-.campo input[type= "text"], .campo input[type= "number"], .campo input[type= "radio"], .campo input[type= "e-mail"], .campo input[type= "password"] {
-padding: 0.2 em;
-border: 1px solid black;
-display: block;
-}
-
-.campo select option {
-    padding-right: 1em;
-}
-
-.campo input:focus, .campo select:focus, .campo textarea {
-    background: white;
-}
-
-.botao {
-    font-size: 1.2em;
-    background: black;
-    border:0;
-    margin-bottom: 1em;
-    color: white ;
-    padding: 0.2em 0.6em;
-}
-
-.botao:hover {
-    background-color: grey;
-    box-shadow: inset 2px 2px 2px grey;
-    text-shadow: none;
-}
-  
-  
-  
